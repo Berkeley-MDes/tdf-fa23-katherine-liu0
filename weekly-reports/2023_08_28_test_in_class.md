@@ -2,7 +2,7 @@
 
 some regular text 
 
-![samoyed] (WechatIMG919.png)
+![samoyed](WechatIMG919.png)
 
 1.qqq
 2.qqq
