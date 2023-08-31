@@ -24,6 +24,8 @@ I got more comfortable with navigating the files after the tutorials in class an
 
 
 
+
+
 Here are some sweet points that I encountered during my exploration.
 1. Feedback/Warning on infeasible model
 
@@ -34,11 +36,14 @@ Here are some sweet points that I encountered during my exploration.
    <img width="1909" alt="rhino2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a3293c39-fb21-4235-8182-ff24f9f88601">
 
 
+
 2. Locating arrows when searching in Grasshopper.
 
    <img width="528" alt="grasshopper1" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/17d337de-02c2-4c92-9fe9-4199d9bfc683">
    
    While I was terrified by how complex the Grasshopper module was, I was glad and surprised that there were those tiny arrows that helped you locate the modules you are looking for in real-time. This feature is by far the most smooth and considerate one I encountered in     Rhino/Grasshopper...
+
+
 
 
 
@@ -52,11 +57,15 @@ Since I had some experience with Adobe Illustrator before, I did some edits that
 
 
 
+
+
 #### Laser Cut and Outcome
 ![stand](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/28a28e7e-856c-4965-944a-85c10119a3ea)
 ![laser-cutting](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ccf4ad3d-45b1-4522-9249-e82d553a1144)
 ![cardboard](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/1b976aa1-f37a-4853-9306-b90c31f328b2)
 ![cardboard-finish](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/769fdb75-3d0d-4c01-ad58-9c73b1a10d13)
+
+
 
 
 
