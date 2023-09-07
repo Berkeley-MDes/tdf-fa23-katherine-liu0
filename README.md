@@ -1,4 +1,17 @@
 # Kat's Weekly Reports
+## Week 2 [08/31-09/07]
+
+This week I learned more about Rhino and Grasshopper through online tutorials. 
+
+TJ's walkthrough of the simple phone stand design is especially helpful. 
+![9401694081058_ pic](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/3878733c-e3dd-4129-903e-9d2818bdff7a)
+
+As I become more familiar with Grasshopper, I feel more confident to play with the parameters and start to how I can incorporate my own aesthetic and design into the given sample. 
+<img width="866" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/3ee693df-38ea-4970-8cb7-963ef5fd573e">
+<img width="478" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/2d3c14a8-e02a-4de8-9a80-1a7a1660fbcd">
+
+I'm also exploring the use of python and c# in grasshopper to create more intricate geometries. 
+
 
 ## Week 1 [08/24-08/31]
 
