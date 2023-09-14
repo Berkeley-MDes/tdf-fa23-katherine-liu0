@@ -1,4 +1,24 @@
 # Kat's Weekly Reports
+
+## Week 2 [09/07-09/14]
+
+This week I personalized my phone stand design and went for print!
+
+Here are my final rendered models.
+![models](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/2abf9f27-53f3-475f-8ac7-43ab2ec1de3a)
+
+Since I was using Form3 printers, for which I had to pay for the material, I tried to simplify the shape and minimize the volume. I used the "shell" commands in Rhino to remove the bottom of my initial design to make it hollow inside. I also created a streamlined version that gets rid of the outer sphere and only keeps the key center structure. 
+<img width="1063" id="bottom" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a3bcc721-c590-4053-b6a2-f2e968dd72f2">
+
+For the circular phone stand, I used Grey tough 1500 v1 resin, and for the streamlined, I used Clear v4 resin, which was very light-weighted and took much less time to print and cure. Thanks to Charon and Reina who assisted me in removing the tough support material! It took a joint efforts of us three. 
+![IMG_5105](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/16e9f6e9-2876-4b34-9aa7-d314b06708f5)
+
+Here are the final products.
+![IMG_5103](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/9656e31c-dab1-47b0-ae9f-97bd05eb3ff9)
+![IMG_5091](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/eee8d3eb-7e0a-4311-b320-4f81f78cd4bb)
+
+
+
 ## Week 2 [08/31-09/07]
 
 This week I learned more about Rhino and Grasshopper through online tutorials. 
