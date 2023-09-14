@@ -1,4 +1,4 @@
-<img width="1063" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/969cd55f-e4c7-4157-8c90-185e8299e15b"># Kat's Weekly Reports
+# Kat's Weekly Reports
 
 ## Week 3 [09/07-09/14]
 
@@ -10,12 +10,13 @@ Here are my final rendered models.
 Since I was using Form3 printers, for which I had to pay for the material, I tried to simplify the shape and minimize the volume. I used the "shell" commands in Rhino to remove the bottom of my initial design to make it hollow inside. I also created a streamlined version that gets rid of the outer sphere and only keeps the key center structure. 
 <img width="1063" id="bottom" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a3bcc721-c590-4053-b6a2-f2e968dd72f2">
 
-For the circular phone stand, I used Grey tough 1500 v1 resin, and for the streamlined, I used Clear v4 resin, which was very light-weighted and took much less time to print and cure. Thanks to Charon and Reina who assisted me in removing the tough support material! It took a joint efforts of us three. 
-![IMG_5105](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/16e9f6e9-2876-4b34-9aa7-d314b06708f5)
+For the circular phone stand, I used Grey tough 1500 v1 resin, and for the streamlined, I used Clear v4 resin, which was very lightweight and took much less time to print and cure. Thanks to Charon and Reina who assisted me in removing the tough support material! It took a joint efforts of us three. 
+![IMG_5091](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/eee8d3eb-7e0a-4311-b320-4f81f78cd4bb)
 
 Here are the final products.
-![IMG_5103](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/9656e31c-dab1-47b0-ae9f-97bd05eb3ff9)
-![IMG_5091](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/eee8d3eb-7e0a-4311-b320-4f81f78cd4bb)
+![IMG_5105](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/857bd9b3-7142-46a2-b7e2-bbb14129f859)
+
+![IMG_5103](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/4ea0b9e2-649e-4026-a832-937e006cfbfb)
 
 Here is my brief video about the process. https://youtu.be/HrWu8Tms1RY 
 
