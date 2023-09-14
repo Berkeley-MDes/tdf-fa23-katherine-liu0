@@ -1,6 +1,6 @@
-# Kat's Weekly Reports
+<img width="1063" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/969cd55f-e4c7-4157-8c90-185e8299e15b"># Kat's Weekly Reports
 
-## Week 2 [09/07-09/14]
+## Week 3 [09/07-09/14]
 
 This week I personalized my phone stand design and went for print!
 
@@ -17,7 +17,7 @@ Here are the final products.
 ![IMG_5103](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/9656e31c-dab1-47b0-ae9f-97bd05eb3ff9)
 ![IMG_5091](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/eee8d3eb-7e0a-4311-b320-4f81f78cd4bb)
 
-
+Here is my brief video about the process. https://youtu.be/HrWu8Tms1RY 
 
 ## Week 2 [08/31-09/07]
 
