@@ -14,9 +14,8 @@ For the circular phone stand, I used Grey tough 1500 v1 resin, and for the strea
 ![IMG_5091](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/eee8d3eb-7e0a-4311-b320-4f81f78cd4bb)
 
 Here are the final products.
-![IMG_5105](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/857bd9b3-7142-46a2-b7e2-bbb14129f859)
-
-![IMG_5103](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/4ea0b9e2-649e-4026-a832-937e006cfbfb)
+![10061694731543_ pic_hd](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a659b619-bc7e-475d-9bb7-7ff4901f1ad6)
+![10051694731543_ pic_hd](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/14ba256b-38f9-40d4-9ba0-f67b58b063f1)
 
 Here is my brief video about the process. https://youtu.be/HrWu8Tms1RY 
 
