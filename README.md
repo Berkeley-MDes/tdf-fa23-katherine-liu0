@@ -5,17 +5,22 @@
 This week I personalized my phone stand design and went for print!
 
 Here are my final rendered models.
-<img width="700" alt="image-of-stands" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/2abf9f27-53f3-475f-8ac7-43ab2ec1de3a">
+
+<img width="300" alt="image-of-stands" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/2abf9f27-53f3-475f-8ac7-43ab2ec1de3a">
+
 
 Since I was using Form3 printers, for which I had to pay for the material, I tried to simplify the shape and minimize the volume. I used the "shell" commands in Rhino to remove the bottom of my initial design to make it hollow inside. I also created a streamlined version that gets rid of the outer sphere and only keeps the key center structure. 
-<img width="700" id="bottom" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a3bcc721-c590-4053-b6a2-f2e968dd72f2">
+
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a3bcc721-c590-4053-b6a2-f2e968dd72f2">
 
 For the circular phone stand, I used Grey tough 1500 v1 resin, and for the streamlined, I used Clear v4 resin, which was very lightweight and took much less time to print and cure. Thanks to Charon and Reina who assisted me in removing the tough support material! It took a joint efforts of us three. 
-<img width="700" alt="grasshopper2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/eee8d3eb-7e0a-4311-b320-4f81f78cd4bb">
+
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/eee8d3eb-7e0a-4311-b320-4f81f78cd4bb">
 
 Here are the final products.
-<img width="700" alt="grasshopper2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a659b619-bc7e-475d-9bb7-7ff4901f1ad6">
-![10051694731543_ pic_hd](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/14ba256b-38f9-40d4-9ba0-f67b58b063f1)
+
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a659b619-bc7e-475d-9bb7-7ff4901f1ad6">
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/14ba256b-38f9-40d4-9ba0-f67b58b063f1">
 
 Here is my brief video about the process. https://youtu.be/HrWu8Tms1RY 
 
@@ -24,13 +29,18 @@ Here is my brief video about the process. https://youtu.be/HrWu8Tms1RY
 This week I learned more about Rhino and Grasshopper through online tutorials. 
 
 TJ's walkthrough of the simple phone stand design is especially helpful. 
-<img width="700" alt="grasshopper2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/3878733c-e3dd-4129-903e-9d2818bdff7a">
+
+<img width="300" alt="grasshopper2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/3878733c-e3dd-4129-903e-9d2818bdff7a">
+
 
 As I become more familiar with Grasshopper, I feel more confident to play with the parameters and start to how I can incorporate my own aesthetic and design into the given sample. 
-<img width="700" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/3ee693df-38ea-4970-8cb7-963ef5fd573e">
-<img width="700" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/2d3c14a8-e02a-4de8-9a80-1a7a1660fbcd">
+
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/3ee693df-38ea-4970-8cb7-963ef5fd573e">
+
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/2d3c14a8-e02a-4de8-9a80-1a7a1660fbcd">
 
 I'm also exploring the use of python and c# in grasshopper to create more intricate geometries. 
+
 
 
 ## Week 1 [08/24-08/31]
@@ -39,7 +49,7 @@ I'm also exploring the use of python and c# in grasshopper to create more intric
 
 This week I used laser cutting to make a phone stand.
 
-![stand with phone](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/143938d9-3b3b-4c09-99e8-834e25a4a160)
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/143938d9-3b3b-4c09-99e8-834e25a4a160">
 
 
 
@@ -47,13 +57,14 @@ This week I used laser cutting to make a phone stand.
 
 The computational design is completed via Rhino and Grasshopper. I've never used Rhino or any 3D-modeling design tools before. The interface was a bit intimidating when I first opened it. 
 
-<img width="700" alt="grasshopper2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ccbea282-debc-4aa9-b2cf-ce5077de3186">
+<img width="300" alt="grasshopper2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ccbea282-debc-4aa9-b2cf-ce5077de3186">
 
 I got more comfortable with navigating the files after the tutorials in class and online. During my laser-cutting session, I had a clearer vision of Grasshopper files as Cody provided more industrial practices and tips, such as grouping and organizing modules and disabling unnecessary functions.  
 
-<img width="700" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/f11ba455-46b6-44f6-a551-ebe56ac2659f">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/f11ba455-46b6-44f6-a551-ebe56ac2659f">
 
-<img width="350" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/94c74757-32a6-4070-a200-bd84290078a4">
+
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/94c74757-32a6-4070-a200-bd84290078a4">
 
 
 
@@ -64,15 +75,15 @@ Here are some sweet points that I encountered during my exploration.
 
    When I was playing with the parameters, I dragged the bar to extreme low/high points. The main object in the view turned red as a warning     of an infeasible design.
    
-   <img width="1916" alt="rhino1" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e3c2f4b6-5e6f-4c00-945b-6267707e2ee9">
+   <img width="300" alt="rhino1" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e3c2f4b6-5e6f-4c00-945b-6267707e2ee9">
    
-   <img width="1909" alt="rhino2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a3293c39-fb21-4235-8182-ff24f9f88601">
+   <img width="300" alt="rhino2" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a3293c39-fb21-4235-8182-ff24f9f88601">
 
 
 
 2. Locating arrows when searching in Grasshopper.
 
-   <img width="528" alt="grasshopper1" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/17d337de-02c2-4c92-9fe9-4199d9bfc683">
+   <img width="300" alt="grasshopper1" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/17d337de-02c2-4c92-9fe9-4199d9bfc683">
    
    While I was terrified by how complex the Grasshopper module was, I was glad and surprised that there were those tiny arrows that helped you locate the modules you are looking for in real-time. This feature is by far the most smooth and considerate one I encountered in     Rhino/Grasshopper...
 
@@ -83,7 +94,7 @@ Here are some sweet points that I encountered during my exploration.
 
 #### Illustrator
 
-<img width="427" alt="illustrator-view" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/1bac1133-5780-432c-a0d5-3fa37c24802e">
+<img width="300" alt="illustrator-view" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/1bac1133-5780-432c-a0d5-3fa37c24802e">
 
 Since I had some experience with Adobe Illustrator before, I did some edits that I was unconfident about making in Rhino. I curved the corners and customized a rasterized 'K' at the front of the base. 
 
@@ -93,10 +104,10 @@ Since I had some experience with Adobe Illustrator before, I did some edits that
 
 
 #### Laser Cut and Outcome
-![stand](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/28a28e7e-856c-4965-944a-85c10119a3ea)
-![laser-cutting](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ccf4ad3d-45b1-4522-9249-e82d553a1144)
-![cardboard](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/1b976aa1-f37a-4853-9306-b90c31f328b2)
-![cardboard-finish](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/769fdb75-3d0d-4c01-ad58-9c73b1a10d13)
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/28a28e7e-856c-4965-944a-85c10119a3ea">
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ccf4ad3d-45b1-4522-9249-e82d553a1144">
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/1b976aa1-f37a-4853-9306-b90c31f328b2">
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/769fdb75-3d0d-4c01-ad58-9c73b1a10d13">
 
 
 
