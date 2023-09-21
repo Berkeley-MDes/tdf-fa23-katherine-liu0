@@ -6,9 +6,9 @@ This week we started to look at physical computing!
 
 I successfully set up my Photon 2, connected it to the campus IoT network, and tested some starter code!
 
-![10381695274660_ pic_hd](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/14ee03bd-d2fe-45c1-bfc2-7cb51461583e | width=300)
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/14ee03bd-d2fe-45c1-bfc2-7cb51461583e">
 
-![10331695240426_ pic](https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/1c73d563-e815-4a54-a507-38b52fee0e95 | width=300)
+<img width="300" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/1c73d563-e815-4a54-a507-38b52fee0e95">
 
 
 ## Week 3 [09/07-09/14]
