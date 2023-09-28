@@ -1,5 +1,20 @@
 # Kat's Weekly Reports
 
+## Week 5[09/21-09/28]
+This week I explored more of the Photon Kit, and connected it to the developing space.
+
+This is the first class exercise where we set the breadcrumb and wrote the code to flash the LED bulb.
+https://youtube.com/shorts/-VTYeR_i7Kg?feature=share
+
+This is the second class exercise where we defined variables and added more dynamics to the flashing. 
+Here is my code, where it only flashes the LED when the analog value is greater than 1000. I used the monitor console to determine the threshold value.
+
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/99380194-c4a2-473b-857b-6a91f4108826">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/5183276c-69f6-4cba-b71c-ce12cd5f7250">
+
+
+https://youtube.com/shorts/Yz4j4J56VDo?feature=share
+
 ## Week 4[09/14-09/21]
 
 This week we started to look at physical computing!
