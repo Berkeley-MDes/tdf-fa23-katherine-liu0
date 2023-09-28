@@ -4,7 +4,7 @@
 This week I explored more of the Photon Kit, and connected it to the developing space.
 
 This is the first class exercise where we set the breadcrumb and wrote the code to flash the LED bulb.
-https://youtube.com/shorts/-VTYeR_i7Kg?feature=share
+A video of the working kit can be seen https://youtube.com/shorts/-VTYeR_i7Kg?feature=share
 
 This is the second class exercise where we defined variables and added more dynamics to the flashing. 
 Here is my code, where it only flashes the LED when the analog value is greater than 1000. I used the monitor console to determine the threshold value.
