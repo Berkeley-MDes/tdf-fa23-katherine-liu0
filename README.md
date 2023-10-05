@@ -16,6 +16,7 @@ We went to the makerspace and talked to the design specialists for advice. Here 
 
 
 Me and Emily also started testing the sensors that we may want to use. 
+
 <img width="200" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/65a6edaf-45f0-4028-9c19-fd60c2f9cfce">
 <img width="200" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e0d5eadb-a53f-4320-a464-c8e0393bed1f">
 <img width="200" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/fef4adbb-3711-4059-a89b-63c5edd92533">
