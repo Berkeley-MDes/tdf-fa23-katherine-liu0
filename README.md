@@ -10,15 +10,15 @@ Here is the flow chart of the basic mechanism.
 
 We went to the makerspace and talked to the design specialists for advice. Here are some sketches of the whole structure from brainstorming. (Sketch 1 done by Shayne, Sketch 2 done by Cody, Sketch 3 done by Chris)
 
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e90a9fa5-7bad-4dd7-ba1a-e14d9dbcf0ac>
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a0961991-3909-4529-ab44->
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/84278983-4043-4145-965d-42203aaf4512>
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e90a9fa5-7bad-4dd7-ba1a-e14d9dbcf0ac">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a0961991-3909-4529-ab44-">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/84278983-4043-4145-965d-42203aaf4512">
 
 
 Me and Emily also started testing the sensors that we may want to use. 
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/65a6edaf-45f0-4028-9c19-fd60c2f9cfce>
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e0d5eadb-a53f-4320-a464-c8e0393bed1f>
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/fef4adbb-3711-4059-a89b-63c5edd92533>
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/65a6edaf-45f0-4028-9c19-fd60c2f9cfce">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e0d5eadb-a53f-4320-a464-c8e0393bed1f">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/fef4adbb-3711-4059-a89b-63c5edd92533">
 
 
 
