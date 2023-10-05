@@ -1,4 +1,26 @@
 # Kat's Weekly Reports
+## Week 5[09/28-10/05]
+This week I worked with my team members to specify our vision on Project 2. 
+
+Based on our theme of "Exploring Mental Health Needs of Graduate Students," we decided to design an “emotional vending machine,” which is a unique combination of a shredder and a printer. Users will jot down their negative feelings on provided index cards, put them into the shredder, and in return, receive cheerful and uplifting messages printed out to lift their spirits. We will collect the cheering messages from the cohort community to form a database and feed it to the printing system.
+
+Here is the flow chart of the basic mechanism. 
+
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/508434c0-65bd-49a3-adc5-0fe1ecfdf526">
+
+We went to the makerspace and talked to the design specialists for advice. Here are some sketches of the whole structure from brainstorming. (Sketch 1 done by Shayne, Sketch 2 done by Cody, Sketch 3 done by Chris)
+
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e90a9fa5-7bad-4dd7-ba1a-e14d9dbcf0ac>
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a0961991-3909-4529-ab44->
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/84278983-4043-4145-965d-42203aaf4512>
+
+
+Me and Emily also started testing the sensors that we may want to use. 
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/65a6edaf-45f0-4028-9c19-fd60c2f9cfce>
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e0d5eadb-a53f-4320-a464-c8e0393bed1f>
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/fef4adbb-3711-4059-a89b-63c5edd92533>
+
+
 
 ## Week 5[09/21-09/28]
 This week I explored more of the Photon Kit, and connected it to the developing space.
