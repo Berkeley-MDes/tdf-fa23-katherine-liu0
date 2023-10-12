@@ -1,4 +1,10 @@
 # Kat's Weekly Reports
+## Week 6[10/05-10/12]
+This week we worked on more details on the electronics and re-scale our project.
+
+As we looked more into the shredding part of the project, we realized that we needed a more powerful torque servo and needed to re-design the gears to fit the manual shredder. To build a more creative output rather than basically re-inventing the shredder, we decided to use a vibration servo and OLED to simulate the shredding experience. For the printing part, we decided to use OLED display for the first prototype to show the positive messages. 
+
+
 ## Week 5[09/28-10/05]
 This week I worked with my team members to specify our vision on Project 2. 
 
