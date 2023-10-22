@@ -1,6 +1,8 @@
 # Kat's Weekly Reports
 ## Week 7[10/12-10/19]
 This week I worked on connecting the OLED board and fabricating the physical interface.
+
+
 <img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/f38b56e6-ccd7-4c37-8df3-b3f5d2df46ab">
 <img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/9f03ee58-3311-45ff-8152-b281ea4d50cb">
 <img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/33524be1-5966-4405-aaaf-3f89eb442f28">
