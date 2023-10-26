@@ -18,6 +18,7 @@ Zero Width has a straightforward interface to start with:
 
 
 Following Peter's instructions, I created a new knowledge set with information on our course projects from the class wiki and linked it to the instructions.
+
 <img width="400" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/5a411036-c032-4e30-aec7-666096431468">
 
 <img width="400" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e73f9b3f-fa34-48d3-9740-5194ff14cd3c">
