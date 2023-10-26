@@ -1,5 +1,52 @@
 # Kat's Weekly Reports
+## Week 8[10/19-10/26]
+This week we started working on Project 3 to design a mini ME using Large Language Models. 
+
+Our guest speaker had a very informative presentation on how LLM functions and a detailed walk-through to demonstrate how we can play with it using Zero Width. 
+
+Some insights from Peter's talk:
+- LLMs know how words relate statistically, but not what they mean. In essence, the only thing LLM does is to fill in the blank.
+- A token is a unit or chunk into which text is divided for analysis.
+- Retrieval-augmented generation is an AI framework for retrieving facts from an external knowledge base.
+- In this project, we will be largely working on **fine-tuning** the LLM, which is to give specialized instructions based on the given dataset to train the model to be a little more "intelligent."
+  <img width="700" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/13299148-31f8-4648-a788-fa8e12ed4e19">
+- LLM understands the prompt based on semantic space:
+  <img width="700" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/a4da50f2-a239-49ed-9a53-4a7ebab6840e">
+
+Zero Width has a straightforward interface to start with:
+<img width="900" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/c2e49fde-6ea3-4fd4-b445-2a0e5460f409">
+
+
+Following Peter's instructions, I created a new knowledge set with information on our course projects from the class wiki and linked it to the instructions.
+<img width="400" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/5a411036-c032-4e30-aec7-666096431468">
+
+<img width="400" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/e73f9b3f-fa34-48d3-9740-5194ff14cd3c">
+
+
+Then I went to the demo page and tested if the database had been incorporated:
+
+<img width="500" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/4780c255-e89a-438a-822e-f0ed24e76576">
+
+It turned out the bot was able to pull the knowledge perfectly. However, it took nearly a whole minute to generate the answer, and the answer was very chunky and cumbersome which was difficult to get a clear grasp of the idea. So I asked the follow-up question:
+
+
+<img width="500" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/5e5b5920-29c7-4a30-827e-ab11eceb63fd">
+
+So the bot is able to relate to the context of the speaking (i.e. connecting to previous questions) and re-pull the relevant dataset:
+
+<img width="500" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/38e854c3-5a5f-4f3a-856b-eb6890f11a2a">
+
+There are two questions that come out of  playing with Zero Width:
+1. How can we optimize the response time of the bot? Do we manually break down the knowledge sets into smaller chunks?
+2. How can we adjust the length and richness of the response content? Is there a parameter that we can use?
+
+
+
+
+
 ## Week 7[10/12-10/19]
+This week we have been on the final stage of designing our magical Photon gear!
+
 I started looking at OLED and trying to make it display positive messages. This part has been one of the biggest challenges of the project. Before I soldered the OLED pins, I was not aware of the option of using the Stemma QT connector which would make the connecting and debugging part much easier. While I had the code to flash and run smoothly, I struggled a lot with no content showing on the display screen. Thanks to Jeff who had multiple debugging sessions with us,  we eventually recognized that there was a problem with the port and device name and made the OLED to function.
 
 I brainstormed with Emily on our new physical interface. On the top is the sketch done by Emily. Then I went to Adobe Illustrator to draw out our shapes for laser-cutting the box. 
@@ -19,7 +66,7 @@ As we looked more into the shredding part of the project, we realized that we ne
 
 Emily synthesized our updated idea into a therapy cat, which will swallow negative thoughts, show reactions of digesting (vibration,) and display a positive message on its belly (OLED.) Based on the updated proposal, I organized and drew the flow chart of computation.
 
-<img width="500" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ca7a42b7-f4e5-440c-8e5d-603666e3a946">
+<img width="700" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ca7a42b7-f4e5-440c-8e5d-603666e3a946">
 
 
 
