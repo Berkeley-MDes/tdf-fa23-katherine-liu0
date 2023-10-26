@@ -2,15 +2,15 @@
 ## Week 7[10/12-10/19]
 I started looking at OLED and trying to make it display positive messages. This part has been one of the biggest challenges of the project. Before I soldered the OLED pins, I was not aware of the option of using the Stemma QT connector which would make the connecting and debugging part much easier. While I had the code to flash and run smoothly, I struggled a lot with no content showing on the display screen. Thanks to Jeff who had multiple debugging sessions with us,  we eventually recognized that there was a problem with the port and device name and made the OLED to function.
 
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/f38b56e6-ccd7-4c37-8df3-b3f5d2df46ab">
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/9f03ee58-3311-45ff-8152-b281ea4d50cb">
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/33524be1-5966-4405-aaaf-3f89eb442f28">
-<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/18a3eac4-0538-438b-a87c-7169ad351510">
-
 I brainstormed with Emily on our new physical interface. On the top is the sketch done by Emily. Then I went to Adobe Illustrator to draw out our shapes for laser-cutting the box. 
 
 After Stephanie finished laser-cutting the box, we gather together to test the photoresistor placement and assembled the complete functional piece.
 
+
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/f38b56e6-ccd7-4c37-8df3-b3f5d2df46ab">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/9f03ee58-3311-45ff-8152-b281ea4d50cb">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/33524be1-5966-4405-aaaf-3f89eb442f28">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/18a3eac4-0538-438b-a87c-7169ad351510">
 
 ## Week 6[10/05-10/12]
 This week we worked on more details on the electronics and re-scale our project.
@@ -18,6 +18,9 @@ This week we worked on more details on the electronics and re-scale our project.
 As we looked more into the shredding part of the project, we realized that we needed a more powerful torque servo and needed to re-design the gears to fit the manual shredder. To build a more creative output rather than basically reverse engineering an auto-shredder, I proposed to use a vibration servo to simulate the shredding experience. For the printing part, we decided to use an OLED display for the first prototype to show the positive messages. 
 
 Emily synthesized our updated idea into a therapy cat, which will swallow negative thoughts, show reactions of digesting (vibration,) and display a positive message on its belly (OLED.) Based on the updated proposal, I organized and drew the flow chart of computation.
+
+<img width="500" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/ca7a42b7-f4e5-440c-8e5d-603666e3a946">
+
 
 
 ## Week 5[09/28-10/05]
