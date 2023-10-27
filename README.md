@@ -1,4 +1,14 @@
 # Kat's Weekly Reports
+
+## Week 9[10/26-11/02]
+- What's the best practice to break the knowledge sets into different chunks to optimize the response performance?
+-   3-500 tokens
+-   considering the use case
+
+use the welcome message to recognize who the bot is talking to and use instructions to ask the bot talk in different ways based on the answer 
+
+
+
 ## Week 8[10/19-10/26]
 This week we started working on Project 3 to design a mini ME using Large Language Models. 
 
