@@ -1,12 +1,50 @@
 # Kat's Weekly Reports
 
 ## Week 9[10/26-11/02]
-- What's the best practice to break the knowledge sets into different chunks to optimize the response performance?
--   3-500 tokens
--   considering the use case
 
-use the welcome message to recognize who the bot is talking to and use instructions to ask the bot talk in different ways based on the answer 
+**Insights from 10/16 Peter's talk:**
+🟡What's the best practice to break the knowledge sets into different chunks to optimize the response performance?
+- 3-500 tokens
+- considering the use case
+🟡Use the welcome message to recognize who the bot is talking to and use instructions to ask the bot to talk in different ways based on the answer 
 
+I decided to build a personal cover letter generator that can parse a job listing and extract relevant aspects from my experience, projects, and school courses,
+
+Some problems with the existing cover letter generator: 
+- Generic Content 
+- Outdated templates
+- Lack of personalization
+- Limited consideration (on work experiences, overlooking skills gained from design projects and courses)
+
+A good cover letter generator should: 
+- Identify both technical and soft skills needed for the job
+- Understand nuances between varied positions in different industries
+- Extract relevant pieces from my professional experiences, projects, and course
+- Gracefully address potential gaps if my experience doesn't align closely with the job description
+- Research on company values and express my personal alignment with the company
+
+I used those as the basis for the general instruction for the bot.
+
+<img width="900" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/640e5fce-b8f3-492f-ac76-3f351ed25938">
+
+I also added a separate instruction that specifically addresses how the bot should write.
+
+<img width="900" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/da5912b0-0c27-48a8-b7dc-233821212863">
+
+For the knowledge set, I curated my professional experiences, education backgrounds, skills, course content, and design projects. 
+
+<img width="900" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/88f2ddb4-7194-4500-adbe-0e43ffe676c0>
+
+Here are some detailed adjustments to tune the model:
+
+<img width="600" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/9aebd5c2-aecf-441b-a6ca-b4132f312f63">
+
+- I wrote additional detailed instructions to make sure the bot provides the right info and speaks as preferred
+- I allowed the bot to pull as much information as it needs to make the accurate pair between my skills and the job listing
+- I set the temperature, the "creativity" dial, to 0.7. So that it produces coherent, professional, and relevant content while taking a bit more randomness, which can be helpful for roles in creative industries.
+
+**Variations: Compatibility Checker**
+Normally people regard a cover letter as just an extra work to do during the job application and believe resume and portfolio (for designers) are more important. I don't disagree with that. But I do think cover letter is a good space to reflect on yourself.
 
 
 ## Week 8[10/19-10/26]
