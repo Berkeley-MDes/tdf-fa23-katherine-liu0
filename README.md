@@ -33,7 +33,7 @@ I also added a separate instruction that specifically addresses how the bot shou
 
 For the knowledge set, I curated my professional experiences, education backgrounds, skills, course content, and design projects. 
 
-<img width="900" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/88f2ddb4-7194-4500-adbe-0e43ffe676c0>
+<img width="900" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/88f2ddb4-7194-4500-adbe-0e43ffe676c0">
 
 Here are some detailed adjustments to tune the model:
 
