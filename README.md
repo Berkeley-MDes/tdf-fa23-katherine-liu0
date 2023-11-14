@@ -4,26 +4,30 @@
 This week I did more research on my final project proposal and started experimenting with the sensors. 
 
 ### Sensors
-#### Accelerometers: measure linear motion in X, Y, or Z. They can be used to detect when they are being moved around, detect motion, shock or vibration. They can also be used to detect gravitational pull in order to detect orientation or tilt.
-#### Gyroscopes: measure rotational motion in X, Y or Z. 
-#### Magnetometers: sense where the strongest magnetic force is coming from, generally used to detect magnetic north, but can also be used for measuring magnetic fields. When combined with accelerometers and gyroscopes you can stabilize orientation calculations and also determine orientation with respect to the Earth.
-#### IR sensors: distance
-#### Force sensor resistor: pressure 
-#### Ultrasonic sensors: distance
+**Accelerometers:** measure linear motion in X, Y, or Z. They can be used to detect when they are being moved around, detect motion, shock or vibration. They can also be used to detect gravitational pull in order to detect orientation or tilt.
+**Gyroscopes:** measure rotational motion in X, Y or Z. 
+**Magnetometers:** sense where the strongest magnetic force is coming from, generally used to detect magnetic north, but can also be used for measuring magnetic fields. When combined with accelerometers and gyroscopes you can stabilize orientation calculations and also determine orientation with respect to the Earth.
+**IR sensors:** distance
+**Force sensor resistor:** pressure 
+**Ultrasonic sensors:** distance
 
 #### most prominent: ADXL362 (GY362) accelerometer breakout
+    
     https://docs.particle.io/reference/datasheets/accessories/edge-ml-kit/#adxl362-gy362-accelerometer-breakout 
     Motion detection library https://github.com/rickkas7/ADXL362DMA 
 
 ### Communication between the photon and the console
-    Make an API call in P5.js and store the reading as a variable
+    
+    Make an API call in P5.js and store the reading as a variable: 
     https://github.com/alblaine/particle-photon-P5-example/blob/master/README.md 
 
 I also looked into the history of the development of motion game controllers. This video has been super helpful: https://www.youtube.com/watch?v=fGjlhNzZSYQ&ab_channel=nimk
 Some prominent figures are:
+
 <img width="400" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/8f6dea17-fecc-47f6-99f5-22d003625733">
 
 Some popular games that involve motion control:
+
 <img width="400" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/b1fa640a-e04b-486c-b929-e71b252a85d3">
 
 
