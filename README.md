@@ -1,5 +1,10 @@
 # Kat's Weekly Reports
 
+## Week 10[11/02-11/09]
+It was great to see a cohort of MiniMe projects from last week's presentation. Now it's time to synthesize all the technology we have been playing with and make something fun and useful!
+
+For the final project, I want to create a motion-controlled game that allows players to interact with the game through physical movements. Sensors and microcontrollers will capture physical input from the user and translate it into in-game actions. This project will also involve the design and fabrication of the physical interface of the controller/ accessory. The game will be programmed in P5.js and web-based. 
+
 ## Week 9[10/26-11/02]
 
 **Insights from 10/16 Peter's talk:**
