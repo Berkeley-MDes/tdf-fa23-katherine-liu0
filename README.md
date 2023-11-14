@@ -5,11 +5,17 @@ This week I did more research on my final project proposal and started experimen
 
 ### Sensors
 **Accelerometers:** measure linear motion in X, Y, or Z. They can be used to detect when they are being moved around, detect motion, shock or vibration. They can also be used to detect gravitational pull in order to detect orientation or tilt.
+
 **Gyroscopes:** measure rotational motion in X, Y or Z. 
+
 **Magnetometers:** sense where the strongest magnetic force is coming from, generally used to detect magnetic north, but can also be used for measuring magnetic fields. When combined with accelerometers and gyroscopes you can stabilize orientation calculations and also determine orientation with respect to the Earth.
+
 **IR sensors:** distance
+
 **Force sensor resistor:** pressure 
+
 **Ultrasonic sensors:** distance
+
 
 #### most prominent: ADXL362 (GY362) accelerometer breakout
     
