@@ -1,6 +1,9 @@
 # Kat's Weekly Reports
 
-## Week 11[11/09-11/17]
+## Week 11[11/16-11/23]
+
+
+## Week 11[11/09-11/16]
 This week I did more research on my final project proposal and started experimenting with the sensors. 
 
 ### Sensors
