@@ -2,21 +2,22 @@
 
 ## Week 14[11/30-12/7]
 This week Kanchan and I worked together to refine the visuals and add more visual and audio elements in the interactions. We trained the gesture recognition algorithm in Edge Impulse.
+
 See our project video: https://www.youtube.com/watch?v=w3z2xJe8K5Y&ab_channel=KatherineLiu
 
 
 ## Week 13[11/23-11/30]
 This week I worked on the game design. 
 
-<img width="900" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/803517a9-3e17-499a-b383-59c8f01e9870">
+<img width="1000" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/803517a9-3e17-499a-b383-59c8f01e9870">
 
 
 
 ## Week 12[11/16-11/23]
-This week I configured the accelerometer to and successfully connected it to p5.js.
+This week I configured the accelerometer and successfully connected it to p5.js.
 Connection and library reference: https://github.com/rickkas7/ADXL362DMA
 
-<img width="400" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/72431456-97b8-44af-ae3a-feec1ddaa9b6">
+<img width="300" alt="image" src="https://github.com/Berkeley-MDes/tdf-fa23-katherine-liu0/assets/139127563/d8e13acb-5969-445d-bf1d-69e08b716f41">
 
 
 Connecting photon to p5.js using API call: https://github.com/alblaine/particle-photon-P5-example/blob/master/README.md
